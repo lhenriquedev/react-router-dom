@@ -275,6 +275,7 @@ ul {
 }
 
 .link {
+  font-weight: bold;
   color: var(--grey-500);
 }
 
